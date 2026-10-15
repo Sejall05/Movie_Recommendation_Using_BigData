@@ -1,0 +1,33 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MovieLens dataset (download separately)
+data/ml-latest-small/
+
+# Generated pipeline and model outputs
+outputs/
+
+# Apache Spark temporary files
+.sparkStaging/
+spark-warehouse/
+metastore_db/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
