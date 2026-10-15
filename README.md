@@ -461,6 +461,4 @@ It is intended for academic learning and demonstration rather than production de
 
 **Project Title:** Movie Recommendation System using Big Data Analytics
 
-**Repository:** Add your GitHub repository URL here.
-
 **Developed using:** Python, PySpark, Apache Spark MLlib, ALS collaborative filtering, Parquet, and Streamlit.
